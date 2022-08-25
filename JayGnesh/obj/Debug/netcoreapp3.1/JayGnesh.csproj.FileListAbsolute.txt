@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\JayGnesh\bin\Debug\netcoreapp3.1\JayGnesh.exe
+C:\Users\hp\source\repos\JayGnesh\bin\Debug\netcoreapp3.1\JayGnesh.deps.json
+C:\Users\hp\source\repos\JayGnesh\bin\Debug\netcoreapp3.1\JayGnesh.runtimeconfig.json
+C:\Users\hp\source\repos\JayGnesh\bin\Debug\netcoreapp3.1\JayGnesh.runtimeconfig.dev.json
+C:\Users\hp\source\repos\JayGnesh\bin\Debug\netcoreapp3.1\JayGnesh.dll
+C:\Users\hp\source\repos\JayGnesh\bin\Debug\netcoreapp3.1\JayGnesh.pdb
+C:\Users\hp\source\repos\JayGnesh\obj\Debug\netcoreapp3.1\JayGnesh.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\JayGnesh\obj\Debug\netcoreapp3.1\JayGnesh.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\JayGnesh\obj\Debug\netcoreapp3.1\JayGnesh.AssemblyInfo.cs
+C:\Users\hp\source\repos\JayGnesh\obj\Debug\netcoreapp3.1\JayGnesh.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\JayGnesh\obj\Debug\netcoreapp3.1\JayGnesh.dll
+C:\Users\hp\source\repos\JayGnesh\obj\Debug\netcoreapp3.1\JayGnesh.pdb
+C:\Users\hp\source\repos\JayGnesh\obj\Debug\netcoreapp3.1\JayGnesh.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Aishwarya Karande\source\repos\JayGanesh\bin\Debug\netcoreapp3.1\JayGanesh.exe
+C:\Users\Aishwarya Karande\source\repos\JayGanesh\bin\Debug\netcoreapp3.1\JayGanesh.deps.json
+C:\Users\Aishwarya Karande\source\repos\JayGanesh\bin\Debug\netcoreapp3.1\JayGanesh.runtimeconfig.json
+C:\Users\Aishwarya Karande\source\repos\JayGanesh\bin\Debug\netcoreapp3.1\JayGanesh.runtimeconfig.dev.json
+C:\Users\Aishwarya Karande\source\repos\JayGanesh\bin\Debug\netcoreapp3.1\JayGanesh.dll
+C:\Users\Aishwarya Karande\source\repos\JayGanesh\bin\Debug\netcoreapp3.1\JayGanesh.pdb
+C:\Users\Aishwarya Karande\source\repos\JayGanesh\obj\Debug\netcoreapp3.1\JayGanesh.csproj.AssemblyReference.cache
+C:\Users\Aishwarya Karande\source\repos\JayGanesh\obj\Debug\netcoreapp3.1\JayGanesh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aishwarya Karande\source\repos\JayGanesh\obj\Debug\netcoreapp3.1\JayGanesh.AssemblyInfoInputs.cache
+C:\Users\Aishwarya Karande\source\repos\JayGanesh\obj\Debug\netcoreapp3.1\JayGanesh.AssemblyInfo.cs
+C:\Users\Aishwarya Karande\source\repos\JayGanesh\obj\Debug\netcoreapp3.1\JayGanesh.csproj.CoreCompileInputs.cache
+C:\Users\Aishwarya Karande\source\repos\JayGanesh\obj\Debug\netcoreapp3.1\JayGanesh.dll
+C:\Users\Aishwarya Karande\source\repos\JayGanesh\obj\Debug\netcoreapp3.1\JayGanesh.pdb
+C:\Users\Aishwarya Karande\source\repos\JayGanesh\obj\Debug\netcoreapp3.1\JayGanesh.genruntimeconfig.cache
