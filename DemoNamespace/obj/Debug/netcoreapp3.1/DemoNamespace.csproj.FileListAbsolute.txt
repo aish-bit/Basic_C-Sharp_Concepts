@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\DemoNamespace\bin\Debug\netcoreapp3.1\DemoNamespace.exe
+C:\Users\hp\source\repos\DemoNamespace\bin\Debug\netcoreapp3.1\DemoNamespace.deps.json
+C:\Users\hp\source\repos\DemoNamespace\bin\Debug\netcoreapp3.1\DemoNamespace.runtimeconfig.json
+C:\Users\hp\source\repos\DemoNamespace\bin\Debug\netcoreapp3.1\DemoNamespace.runtimeconfig.dev.json
+C:\Users\hp\source\repos\DemoNamespace\bin\Debug\netcoreapp3.1\DemoNamespace.dll
+C:\Users\hp\source\repos\DemoNamespace\bin\Debug\netcoreapp3.1\DemoNamespace.pdb
+C:\Users\hp\source\repos\DemoNamespace\obj\Debug\netcoreapp3.1\DemoNamespace.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\DemoNamespace\obj\Debug\netcoreapp3.1\DemoNamespace.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\DemoNamespace\obj\Debug\netcoreapp3.1\DemoNamespace.AssemblyInfo.cs
+C:\Users\hp\source\repos\DemoNamespace\obj\Debug\netcoreapp3.1\DemoNamespace.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DemoNamespace\obj\Debug\netcoreapp3.1\DemoNamespace.dll
+C:\Users\hp\source\repos\DemoNamespace\obj\Debug\netcoreapp3.1\DemoNamespace.pdb
+C:\Users\hp\source\repos\DemoNamespace\obj\Debug\netcoreapp3.1\DemoNamespace.genruntimeconfig.cache
