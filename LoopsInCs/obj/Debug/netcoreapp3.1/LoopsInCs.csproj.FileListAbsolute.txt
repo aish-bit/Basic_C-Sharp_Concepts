@@ -1,0 +1,13 @@
+C:\Users\Aishwarya Karande\source\repos\LoopsInCs\bin\Debug\netcoreapp3.1\LoopsInCs.exe
+C:\Users\Aishwarya Karande\source\repos\LoopsInCs\bin\Debug\netcoreapp3.1\LoopsInCs.deps.json
+C:\Users\Aishwarya Karande\source\repos\LoopsInCs\bin\Debug\netcoreapp3.1\LoopsInCs.runtimeconfig.json
+C:\Users\Aishwarya Karande\source\repos\LoopsInCs\bin\Debug\netcoreapp3.1\LoopsInCs.runtimeconfig.dev.json
+C:\Users\Aishwarya Karande\source\repos\LoopsInCs\bin\Debug\netcoreapp3.1\LoopsInCs.dll
+C:\Users\Aishwarya Karande\source\repos\LoopsInCs\bin\Debug\netcoreapp3.1\LoopsInCs.pdb
+C:\Users\Aishwarya Karande\source\repos\LoopsInCs\obj\Debug\netcoreapp3.1\LoopsInCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aishwarya Karande\source\repos\LoopsInCs\obj\Debug\netcoreapp3.1\LoopsInCs.AssemblyInfoInputs.cache
+C:\Users\Aishwarya Karande\source\repos\LoopsInCs\obj\Debug\netcoreapp3.1\LoopsInCs.AssemblyInfo.cs
+C:\Users\Aishwarya Karande\source\repos\LoopsInCs\obj\Debug\netcoreapp3.1\LoopsInCs.csproj.CoreCompileInputs.cache
+C:\Users\Aishwarya Karande\source\repos\LoopsInCs\obj\Debug\netcoreapp3.1\LoopsInCs.dll
+C:\Users\Aishwarya Karande\source\repos\LoopsInCs\obj\Debug\netcoreapp3.1\LoopsInCs.pdb
+C:\Users\Aishwarya Karande\source\repos\LoopsInCs\obj\Debug\netcoreapp3.1\LoopsInCs.genruntimeconfig.cache

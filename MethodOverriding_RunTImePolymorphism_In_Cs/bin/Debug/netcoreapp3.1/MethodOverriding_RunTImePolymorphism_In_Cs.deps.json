@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MethodOverriding_RunTImePolymorphism_In_Cs/1.0.0": {
+        "runtime": {
+          "MethodOverriding_RunTImePolymorphism_In_Cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodOverriding_RunTImePolymorphism_In_Cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
