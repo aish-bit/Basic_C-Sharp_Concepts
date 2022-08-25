@@ -1,0 +1,14 @@
+C:\Users\Aishwarya Karande\source\repos\ThisConcept\obj\Debug\netcoreapp3.1\ThisConcept.csproj.AssemblyReference.cache
+C:\Users\Aishwarya Karande\source\repos\ThisConcept\obj\Debug\netcoreapp3.1\ThisConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aishwarya Karande\source\repos\ThisConcept\obj\Debug\netcoreapp3.1\ThisConcept.AssemblyInfoInputs.cache
+C:\Users\Aishwarya Karande\source\repos\ThisConcept\obj\Debug\netcoreapp3.1\ThisConcept.AssemblyInfo.cs
+C:\Users\Aishwarya Karande\source\repos\ThisConcept\obj\Debug\netcoreapp3.1\ThisConcept.csproj.CoreCompileInputs.cache
+C:\Users\Aishwarya Karande\source\repos\ThisConcept\bin\Debug\netcoreapp3.1\ThisConcept.exe
+C:\Users\Aishwarya Karande\source\repos\ThisConcept\bin\Debug\netcoreapp3.1\ThisConcept.deps.json
+C:\Users\Aishwarya Karande\source\repos\ThisConcept\bin\Debug\netcoreapp3.1\ThisConcept.runtimeconfig.json
+C:\Users\Aishwarya Karande\source\repos\ThisConcept\bin\Debug\netcoreapp3.1\ThisConcept.runtimeconfig.dev.json
+C:\Users\Aishwarya Karande\source\repos\ThisConcept\bin\Debug\netcoreapp3.1\ThisConcept.dll
+C:\Users\Aishwarya Karande\source\repos\ThisConcept\bin\Debug\netcoreapp3.1\ThisConcept.pdb
+C:\Users\Aishwarya Karande\source\repos\ThisConcept\obj\Debug\netcoreapp3.1\ThisConcept.dll
+C:\Users\Aishwarya Karande\source\repos\ThisConcept\obj\Debug\netcoreapp3.1\ThisConcept.pdb
+C:\Users\Aishwarya Karande\source\repos\ThisConcept\obj\Debug\netcoreapp3.1\ThisConcept.genruntimeconfig.cache
