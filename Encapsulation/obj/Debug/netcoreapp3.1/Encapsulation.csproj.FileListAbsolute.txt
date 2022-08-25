@@ -1,0 +1,14 @@
+C:\Users\Aishwarya Karande\source\repos\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aishwarya Karande\source\repos\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Aishwarya Karande\source\repos\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfo.cs
+C:\Users\Aishwarya Karande\source\repos\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Aishwarya Karande\source\repos\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.exe
+C:\Users\Aishwarya Karande\source\repos\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.deps.json
+C:\Users\Aishwarya Karande\source\repos\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.json
+C:\Users\Aishwarya Karande\source\repos\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.dev.json
+C:\Users\Aishwarya Karande\source\repos\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.dll
+C:\Users\Aishwarya Karande\source\repos\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.pdb
+C:\Users\Aishwarya Karande\source\repos\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.dll
+C:\Users\Aishwarya Karande\source\repos\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.pdb
+C:\Users\Aishwarya Karande\source\repos\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.genruntimeconfig.cache
+C:\Users\Aishwarya Karande\source\repos\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csproj.AssemblyReference.cache

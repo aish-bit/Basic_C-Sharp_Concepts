@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final_Equivalent_sealed_In_Cs", "Final_Equivalent_sealed_In_Cs.csproj", "{F49ED799-B98D-41E4-84B1-6C8890E4CC92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final_Equivalent_sealed_In_Cs_(sealed_method)", "..\Final_Equivalent_sealed_In_Cs_(sealed_method)\Final_Equivalent_sealed_In_Cs_(sealed_method).csproj", "{90932785-07E2-4715-B061-4159EA456AA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F49ED799-B98D-41E4-84B1-6C8890E4CC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49ED799-B98D-41E4-84B1-6C8890E4CC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49ED799-B98D-41E4-84B1-6C8890E4CC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49ED799-B98D-41E4-84B1-6C8890E4CC92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90932785-07E2-4715-B061-4159EA456AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90932785-07E2-4715-B061-4159EA456AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90932785-07E2-4715-B061-4159EA456AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90932785-07E2-4715-B061-4159EA456AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68B0E01B-FA18-453A-8EFF-B195B64F9E27}
+	EndGlobalSection
+EndGlobal
