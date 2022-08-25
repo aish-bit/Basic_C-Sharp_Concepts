@@ -1,0 +1,13 @@
+C:\Users\Aishwarya Karande\source\repos\SelectionInCs\bin\Debug\netcoreapp3.1\SelectionInCs.exe
+C:\Users\Aishwarya Karande\source\repos\SelectionInCs\bin\Debug\netcoreapp3.1\SelectionInCs.deps.json
+C:\Users\Aishwarya Karande\source\repos\SelectionInCs\bin\Debug\netcoreapp3.1\SelectionInCs.runtimeconfig.json
+C:\Users\Aishwarya Karande\source\repos\SelectionInCs\bin\Debug\netcoreapp3.1\SelectionInCs.runtimeconfig.dev.json
+C:\Users\Aishwarya Karande\source\repos\SelectionInCs\bin\Debug\netcoreapp3.1\SelectionInCs.dll
+C:\Users\Aishwarya Karande\source\repos\SelectionInCs\bin\Debug\netcoreapp3.1\SelectionInCs.pdb
+C:\Users\Aishwarya Karande\source\repos\SelectionInCs\obj\Debug\netcoreapp3.1\SelectionInCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aishwarya Karande\source\repos\SelectionInCs\obj\Debug\netcoreapp3.1\SelectionInCs.AssemblyInfoInputs.cache
+C:\Users\Aishwarya Karande\source\repos\SelectionInCs\obj\Debug\netcoreapp3.1\SelectionInCs.AssemblyInfo.cs
+C:\Users\Aishwarya Karande\source\repos\SelectionInCs\obj\Debug\netcoreapp3.1\SelectionInCs.csproj.CoreCompileInputs.cache
+C:\Users\Aishwarya Karande\source\repos\SelectionInCs\obj\Debug\netcoreapp3.1\SelectionInCs.dll
+C:\Users\Aishwarya Karande\source\repos\SelectionInCs\obj\Debug\netcoreapp3.1\SelectionInCs.pdb
+C:\Users\Aishwarya Karande\source\repos\SelectionInCs\obj\Debug\netcoreapp3.1\SelectionInCs.genruntimeconfig.cache
