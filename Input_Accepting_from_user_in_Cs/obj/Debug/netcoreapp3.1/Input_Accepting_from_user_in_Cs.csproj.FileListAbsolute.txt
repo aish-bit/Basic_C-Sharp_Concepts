@@ -1,0 +1,14 @@
+C:\Users\Aishwarya Karande\source\repos\Input_Accepting_from_user_in_Cs\bin\Debug\netcoreapp3.1\Input_Accepting_from_user_in_Cs.exe
+C:\Users\Aishwarya Karande\source\repos\Input_Accepting_from_user_in_Cs\bin\Debug\netcoreapp3.1\Input_Accepting_from_user_in_Cs.deps.json
+C:\Users\Aishwarya Karande\source\repos\Input_Accepting_from_user_in_Cs\bin\Debug\netcoreapp3.1\Input_Accepting_from_user_in_Cs.runtimeconfig.json
+C:\Users\Aishwarya Karande\source\repos\Input_Accepting_from_user_in_Cs\bin\Debug\netcoreapp3.1\Input_Accepting_from_user_in_Cs.runtimeconfig.dev.json
+C:\Users\Aishwarya Karande\source\repos\Input_Accepting_from_user_in_Cs\bin\Debug\netcoreapp3.1\Input_Accepting_from_user_in_Cs.dll
+C:\Users\Aishwarya Karande\source\repos\Input_Accepting_from_user_in_Cs\bin\Debug\netcoreapp3.1\Input_Accepting_from_user_in_Cs.pdb
+C:\Users\Aishwarya Karande\source\repos\Input_Accepting_from_user_in_Cs\obj\Debug\netcoreapp3.1\Input_Accepting_from_user_in_Cs.csproj.AssemblyReference.cache
+C:\Users\Aishwarya Karande\source\repos\Input_Accepting_from_user_in_Cs\obj\Debug\netcoreapp3.1\Input_Accepting_from_user_in_Cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aishwarya Karande\source\repos\Input_Accepting_from_user_in_Cs\obj\Debug\netcoreapp3.1\Input_Accepting_from_user_in_Cs.AssemblyInfoInputs.cache
+C:\Users\Aishwarya Karande\source\repos\Input_Accepting_from_user_in_Cs\obj\Debug\netcoreapp3.1\Input_Accepting_from_user_in_Cs.AssemblyInfo.cs
+C:\Users\Aishwarya Karande\source\repos\Input_Accepting_from_user_in_Cs\obj\Debug\netcoreapp3.1\Input_Accepting_from_user_in_Cs.csproj.CoreCompileInputs.cache
+C:\Users\Aishwarya Karande\source\repos\Input_Accepting_from_user_in_Cs\obj\Debug\netcoreapp3.1\Input_Accepting_from_user_in_Cs.dll
+C:\Users\Aishwarya Karande\source\repos\Input_Accepting_from_user_in_Cs\obj\Debug\netcoreapp3.1\Input_Accepting_from_user_in_Cs.pdb
+C:\Users\Aishwarya Karande\source\repos\Input_Accepting_from_user_in_Cs\obj\Debug\netcoreapp3.1\Input_Accepting_from_user_in_Cs.genruntimeconfig.cache
