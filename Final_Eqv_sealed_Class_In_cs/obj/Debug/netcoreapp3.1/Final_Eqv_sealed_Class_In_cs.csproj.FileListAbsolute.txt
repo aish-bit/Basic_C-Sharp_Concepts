@@ -1,0 +1,14 @@
+C:\Users\Aishwarya Karande\source\repos\Final_Eqv_sealed_Class_In_cs\bin\Debug\netcoreapp3.1\Final_Eqv_sealed_Class_In_cs.exe
+C:\Users\Aishwarya Karande\source\repos\Final_Eqv_sealed_Class_In_cs\bin\Debug\netcoreapp3.1\Final_Eqv_sealed_Class_In_cs.deps.json
+C:\Users\Aishwarya Karande\source\repos\Final_Eqv_sealed_Class_In_cs\bin\Debug\netcoreapp3.1\Final_Eqv_sealed_Class_In_cs.runtimeconfig.json
+C:\Users\Aishwarya Karande\source\repos\Final_Eqv_sealed_Class_In_cs\bin\Debug\netcoreapp3.1\Final_Eqv_sealed_Class_In_cs.runtimeconfig.dev.json
+C:\Users\Aishwarya Karande\source\repos\Final_Eqv_sealed_Class_In_cs\bin\Debug\netcoreapp3.1\Final_Eqv_sealed_Class_In_cs.dll
+C:\Users\Aishwarya Karande\source\repos\Final_Eqv_sealed_Class_In_cs\bin\Debug\netcoreapp3.1\Final_Eqv_sealed_Class_In_cs.pdb
+C:\Users\Aishwarya Karande\source\repos\Final_Eqv_sealed_Class_In_cs\obj\Debug\netcoreapp3.1\Final_Eqv_sealed_Class_In_cs.csproj.AssemblyReference.cache
+C:\Users\Aishwarya Karande\source\repos\Final_Eqv_sealed_Class_In_cs\obj\Debug\netcoreapp3.1\Final_Eqv_sealed_Class_In_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aishwarya Karande\source\repos\Final_Eqv_sealed_Class_In_cs\obj\Debug\netcoreapp3.1\Final_Eqv_sealed_Class_In_cs.AssemblyInfoInputs.cache
+C:\Users\Aishwarya Karande\source\repos\Final_Eqv_sealed_Class_In_cs\obj\Debug\netcoreapp3.1\Final_Eqv_sealed_Class_In_cs.AssemblyInfo.cs
+C:\Users\Aishwarya Karande\source\repos\Final_Eqv_sealed_Class_In_cs\obj\Debug\netcoreapp3.1\Final_Eqv_sealed_Class_In_cs.csproj.CoreCompileInputs.cache
+C:\Users\Aishwarya Karande\source\repos\Final_Eqv_sealed_Class_In_cs\obj\Debug\netcoreapp3.1\Final_Eqv_sealed_Class_In_cs.dll
+C:\Users\Aishwarya Karande\source\repos\Final_Eqv_sealed_Class_In_cs\obj\Debug\netcoreapp3.1\Final_Eqv_sealed_Class_In_cs.pdb
+C:\Users\Aishwarya Karande\source\repos\Final_Eqv_sealed_Class_In_cs\obj\Debug\netcoreapp3.1\Final_Eqv_sealed_Class_In_cs.genruntimeconfig.cache
