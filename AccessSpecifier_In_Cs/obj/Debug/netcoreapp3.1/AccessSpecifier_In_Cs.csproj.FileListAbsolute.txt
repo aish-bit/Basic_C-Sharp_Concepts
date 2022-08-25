@@ -1,0 +1,14 @@
+C:\Users\Aishwarya Karande\source\repos\AccessSpecifier_In_Cs\bin\Debug\netcoreapp3.1\AccessSpecifier_In_Cs.exe
+C:\Users\Aishwarya Karande\source\repos\AccessSpecifier_In_Cs\bin\Debug\netcoreapp3.1\AccessSpecifier_In_Cs.deps.json
+C:\Users\Aishwarya Karande\source\repos\AccessSpecifier_In_Cs\bin\Debug\netcoreapp3.1\AccessSpecifier_In_Cs.runtimeconfig.json
+C:\Users\Aishwarya Karande\source\repos\AccessSpecifier_In_Cs\bin\Debug\netcoreapp3.1\AccessSpecifier_In_Cs.runtimeconfig.dev.json
+C:\Users\Aishwarya Karande\source\repos\AccessSpecifier_In_Cs\bin\Debug\netcoreapp3.1\AccessSpecifier_In_Cs.dll
+C:\Users\Aishwarya Karande\source\repos\AccessSpecifier_In_Cs\bin\Debug\netcoreapp3.1\AccessSpecifier_In_Cs.pdb
+C:\Users\Aishwarya Karande\source\repos\AccessSpecifier_In_Cs\obj\Debug\netcoreapp3.1\AccessSpecifier_In_Cs.csproj.AssemblyReference.cache
+C:\Users\Aishwarya Karande\source\repos\AccessSpecifier_In_Cs\obj\Debug\netcoreapp3.1\AccessSpecifier_In_Cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aishwarya Karande\source\repos\AccessSpecifier_In_Cs\obj\Debug\netcoreapp3.1\AccessSpecifier_In_Cs.AssemblyInfoInputs.cache
+C:\Users\Aishwarya Karande\source\repos\AccessSpecifier_In_Cs\obj\Debug\netcoreapp3.1\AccessSpecifier_In_Cs.AssemblyInfo.cs
+C:\Users\Aishwarya Karande\source\repos\AccessSpecifier_In_Cs\obj\Debug\netcoreapp3.1\AccessSpecifier_In_Cs.csproj.CoreCompileInputs.cache
+C:\Users\Aishwarya Karande\source\repos\AccessSpecifier_In_Cs\obj\Debug\netcoreapp3.1\AccessSpecifier_In_Cs.dll
+C:\Users\Aishwarya Karande\source\repos\AccessSpecifier_In_Cs\obj\Debug\netcoreapp3.1\AccessSpecifier_In_Cs.pdb
+C:\Users\Aishwarya Karande\source\repos\AccessSpecifier_In_Cs\obj\Debug\netcoreapp3.1\AccessSpecifier_In_Cs.genruntimeconfig.cache
